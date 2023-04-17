@@ -1,0 +1,7 @@
+F:\CorsoPon\Rubrica\Rubrica\bin\Debug\Rubrica.exe.config
+F:\CorsoPon\Rubrica\Rubrica\bin\Debug\Rubrica.exe
+F:\CorsoPon\Rubrica\Rubrica\bin\Debug\Rubrica.pdb
+F:\CorsoPon\Rubrica\Rubrica\obj\Debug\Rubrica.csprojAssemblyReference.cache
+F:\CorsoPon\Rubrica\Rubrica\obj\Debug\Rubrica.csproj.CoreCompileInputs.cache
+F:\CorsoPon\Rubrica\Rubrica\obj\Debug\Rubrica.exe
+F:\CorsoPon\Rubrica\Rubrica\obj\Debug\Rubrica.pdb
